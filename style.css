@@ -1,0 +1,56 @@
+body{
+    background: url("/images/bg.jpg") no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-style: italic;
+    text-decoration: underline;
+    color: aliceblue;
+}
+.tbl{
+    box-align: right;
+}
+table{
+    border: 1px solid black;
+    background-color: burlywood;
+    border-style: double;
+    width: 50%;
+    height: ;
+    float: right;
+}
+.red{
+    color: red;
+    text-align: justify;
+    font-size: 1rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.blue{
+    font-size: 2rem;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    width: 2rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.italic{
+    text-align: left;
+    font-style: italic;
+    font-size: 1rem;
+    padding-left: 10px;
+    padding-bottom: 2rem;
+}
+/* td{
+    border: 1px solid black;
+} */
+.top{
+    border-top: 1px solid black;
+}
+.lr{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.bottom{
+    border-bottom: 1px solid black;
+}
